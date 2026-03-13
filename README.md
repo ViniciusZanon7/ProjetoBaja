@@ -1,70 +1,38 @@
-## Consulta de Valores a Receber – API Bancária (Projeto Acadêmico)
+## Projeto Baja – Página Informativa
 Sobre o projeto
 
-Este projeto foi desenvolvido em sala de aula com o objetivo de praticar conceitos de desenvolvimento de APIs, validação de dados e integração entre backend e frontend.
+Este projeto foi desenvolvido em sala de aula com o objetivo de praticar desenvolvimento frontend e estruturação de páginas web.
 
-A aplicação simula um sistema de consulta de valores a receber de um banco. O usuário informa um CPF e data de nascimento, o sistema realiza a validação do documento e, caso seja válido, consulta um banco de dados para verificar se existem valores disponíveis.
+A aplicação consiste em uma página informativa sobre um projeto de carrinho desenvolvido por estudantes de engenharia para uma competição acadêmica. O site apresenta informações sobre o projeto, seus objetivos e detalhes do desenvolvimento do veículo.
 
-O resultado da consulta é então exibido na interface web.
+O foco principal foi trabalhar a estrutura e apresentação de conteúdo na web, simulando uma página institucional de apresentação de um projeto acadêmico.
 
-Além disso, a interface foi inspirada na tela de consulta do banco Banco Bradesco, com o objetivo de simular uma experiência mais próxima de um sistema real.
+Objetivos do projeto
 
-Funcionalidades
+Criar uma página web informativa
 
-Validação de CPF informado pelo usuário
+Apresentar um projeto acadêmico de engenharia
 
-Consulta de dados no banco de dados
+Praticar estruturação e organização de conteúdo em páginas web
 
-Retorno de informações sobre valores disponíveis
-
-Integração entre API backend e interface frontend
-
-Interface web simulando sistema bancário
-
-Conceitos praticados
-
-Durante o desenvolvimento deste projeto foram praticados conceitos como:
-
-Criação de APIs REST
-
-Validação de dados
-
-Integração entre frontend e backend
-
-Conexão com banco de dados
-
-Estruturação de aplicações em camadas
+Aplicar conceitos básicos de design e layout
 
 Tecnologias utilizadas
 
-Java
-
-Spring Boot
-
 HTML
 
-Banco de Dados
+CSS
 
-Git e GitHub
+Funcionalidades
 
-🚀 Como executar o projeto
+Página informativa sobre o projeto
 
-Clone o repositório
+Estrutura organizada de conteúdo
 
-git clone https://github.com/ViniciusZanon7/ProjetoBaja.git
+Layout responsivo
 
-Abra o projeto em uma IDE Java (IntelliJ, Eclipse ou VSCode)
-
-Execute a aplicação Spring Boot
-
-Acesse a interface web pelo navegador.
+Uso de componentes visuais para melhor apresentação
 
 Objetivo acadêmico
 
-Este projeto foi desenvolvido para fins educacionais, com o objetivo de aplicar na prática conceitos aprendidos durante as aulas de desenvolvimento backend e integração com interfaces web.
-
-diagrama da API
-
-prints do sistema
-
-Isso valoriza muito seu GitHub para recrutadores.
+Este projeto foi desenvolvido para fins educacionais, com o objetivo de aplicar conceitos básicos de desenvolvimento frontend, organização de conteúdo e estilização de páginas web.
